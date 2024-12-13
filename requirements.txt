@@ -1,1 +1,8 @@
+flask
+requests
+logging
+langchain-core
 langchain-ollama
+langchain-openai
+flask-cors
+dotenv
