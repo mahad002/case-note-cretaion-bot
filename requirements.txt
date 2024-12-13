@@ -1,9 +1,7 @@
-flask
+Flask
+Flask-Cors
 requests
-logging
 langchain-core
 langchain-ollama
 langchain-openai
-flask-cors
-dotenv
-gunicorn
+python-dotenv
