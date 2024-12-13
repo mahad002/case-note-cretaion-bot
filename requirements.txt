@@ -6,3 +6,4 @@ langchain-ollama
 langchain-openai
 flask-cors
 dotenv
+gunicorn
